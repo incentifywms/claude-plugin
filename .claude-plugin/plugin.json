@@ -10,6 +10,8 @@
   },
   "homepage": "https://incentify.cloud/mcp",
   "privacyPolicyUrl": "https://incentify.cloud/mcp#privacy",
+  "supportUrl": "https://incentify.cloud/contact",
+  "documentationUrl": "https://github.com/incentifywms/claude-plugin#readme",
   "repository": "https://github.com/incentifywms/claude-plugin",
   "license": "MIT",
   "keywords": ["hr", "workforce", "scheduling", "attendance", "tasks", "recognition", "mcp"]
