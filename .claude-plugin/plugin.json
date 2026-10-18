@@ -1,0 +1,15 @@
+{
+  "name": "incentify",
+  "displayName": "Incentify",
+  "version": "0.1.0",
+  "description": "Connect Claude to your Incentify workspace: scheduling, time and attendance, tasks, performance and rewards.",
+  "author": {
+    "name": "Incentify",
+    "email": "support@incentify.cloud",
+    "url": "https://incentify.cloud/"
+  },
+  "homepage": "https://incentify.cloud/mcp",
+  "repository": "https://github.com/incentifywms/claude-plugin",
+  "license": "MIT",
+  "keywords": ["hr", "workforce", "scheduling", "attendance", "tasks", "recognition", "mcp"]
+}

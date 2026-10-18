@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "incentify",
+  "description": "Official Incentify plugins for Claude Code",
+  "owner": {
+    "name": "Incentify",
+    "email": "support@incentify.cloud",
+    "url": "https://incentify.cloud/"
+  },
+  "plugins": [
+    {
+      "name": "incentify",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["hr", "workforce", "scheduling", "attendance"]
+    }
+  ]
+}
