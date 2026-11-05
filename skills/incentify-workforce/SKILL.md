@@ -18,7 +18,8 @@ Common entry points:
 | The user asks | Start with |
 |---|---|
 | "what's on today?" | `GetMyDaySummary` |
-| "am I clocked in?" / "clock me in" | `ClockAction` |
+| "am I clocked in?" | `GetMyDaySummary` |
+| "clock me in" / "clock me out" | `ClockAction` (a write: confirm first) |
 | "what do I owe?" | `GetMyTasks`, `GetMyKpis` |
 | "how's the team right now?" | `GetTeamLiveStatus`, `GetTeamTrackerSnapshot` |
 | "who's off / who asked for leave?" | `GetTeamRequests`, `ListMyLeavePolicies` |

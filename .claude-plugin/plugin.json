@@ -1,7 +1,7 @@
 {
   "name": "incentify",
   "displayName": "Incentify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect Claude to your Incentify workspace: scheduling, time and attendance, tasks, performance and rewards.",
   "author": {
     "name": "Incentify",
